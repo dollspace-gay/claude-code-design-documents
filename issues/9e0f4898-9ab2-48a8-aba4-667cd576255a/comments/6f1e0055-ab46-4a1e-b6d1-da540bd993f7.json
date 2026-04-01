@@ -1,0 +1,10 @@
+{
+  "uuid": "6f1e0055-ab46-4a1e-b6d1-da540bd993f7",
+  "issue_uuid": "9e0f4898-9ab2-48a8-aba4-667cd576255a",
+  "author": "BBGH",
+  "content": "Created 7 gap-filling design docs: prompt-suggestion-speculation (48K LOC critical), rate-limiting-policy, background-automation (MagicDocs+AutoDream+AgentSummary), token-estimation-vcr-diagnostics, platform-integration, computer-use, auxiliary-services. Removed duplicate partial rate-limiting.md. Final: 23 docs, 201 REQs, 183 ACs, 0 OPEN. All committed and pushed to crosslink/knowledge.",
+  "created_at": "2026-04-01T16:30:13.407055999Z",
+  "kind": "handoff",
+  "signed_by": "SHA256:J00HHD1JI1ThgB/YYBvvM6HwNUrSQvO70CrPh32mQgA",
+  "signature": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg8Y9iUHsdhGBjH7ilHVW7wJi85sydInzHweNVfHLAiaQAAAARY3Jvc3NsaW5rLWNvbW1lbnQAAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAa3jVaZyMz7sbMGXPgdN53GK1cUHBwhAIlZyJCFTyoRqKI84CbcchPD5hab35Kryq8IZdiQa7LV7MpxVgFTDsAw=="
+}
