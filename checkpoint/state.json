@@ -2,16 +2,11 @@
   "next_display_id": 1,
   "next_comment_id": 1,
   "display_id_map": {},
-  "locks": {
-    "-1": {
-      "agent_id": "BBGH",
-      "claimed_at": "2026-04-01T15:24:25.825094300Z"
-    }
-  },
+  "locks": {},
   "issues": {},
   "watermark": {
-    "timestamp": "2026-04-01T15:24:25.825094300Z",
+    "timestamp": "2026-04-01T16:02:16.840154459Z",
     "agent_id": "BBGH",
-    "agent_seq": 1
+    "agent_seq": 2
   }
 }
