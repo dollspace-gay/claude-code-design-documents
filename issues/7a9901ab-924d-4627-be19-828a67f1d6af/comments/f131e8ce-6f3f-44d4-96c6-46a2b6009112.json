@@ -1,0 +1,10 @@
+{
+  "uuid": "f131e8ce-6f3f-44d4-96c6-46a2b6009112",
+  "issue_uuid": "7a9901ab-924d-4627-be19-828a67f1d6af",
+  "author": "BBGH",
+  "content": "Resolved all 12 open questions across 7 design docs. Decisions: defer voice mode, git CLI for everything (removed git2), runtime USER_TYPE gating for internal features, separate ToolRenderer trait in claude-tui, Arc<Mutex> for ToolUseContext, open crate for browser, always include ant-only fields, bounded mpsc channel (256) for streaming backpressure, ratatui-image for inline images, immediate-mode re-render every frame, tree-sitter for bash security, nucleo crate with tuned params. All 16 docs now fully resolved: 149 REQs, 140 ACs, 0 OPEN.",
+  "created_at": "2026-04-01T16:12:58.798456672Z",
+  "kind": "handoff",
+  "signed_by": "SHA256:J00HHD1JI1ThgB/YYBvvM6HwNUrSQvO70CrPh32mQgA",
+  "signature": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg8Y9iUHsdhGBjH7ilHVW7wJi85sydInzHweNVfHLAiaQAAAARY3Jvc3NsaW5rLWNvbW1lbnQAAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABA+/n/0MUmY04AleXN3lCWOHNH1zG8WifP+TGse26guWV0sowSZe7NQ3AcMpy9Kl6Rr/63QYAo37qupjF6pMfpAw=="
+}
