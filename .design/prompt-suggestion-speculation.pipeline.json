@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "design_doc": ".design/prompt-suggestion-speculation.md",
+  "doc_hash": "sha256:9fbd08c6c1fc54327a7f1b15eb32c67b2ec0964e4eadaf8e6cd37c89324e7589",
+  "stage": "designed",
+  "plans": [],
+  "runs": []
+}

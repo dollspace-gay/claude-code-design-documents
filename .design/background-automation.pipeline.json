@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "design_doc": ".design/background-automation.md",
+  "doc_hash": "sha256:5ce4d69b5812a26a942d7fb938052c1a1ba8d33cc69c5e7b53505529eea6af7d",
+  "stage": "designed",
+  "plans": [],
+  "runs": []
+}

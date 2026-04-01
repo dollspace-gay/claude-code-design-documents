@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "design_doc": ".design/rate-limiting-policy.md",
+  "doc_hash": "sha256:aa72bbc0589a5f3d739af74b08ef29cad8fb2be2b845d357fb437a0b28872043",
+  "stage": "designed",
+  "plans": [],
+  "runs": []
+}

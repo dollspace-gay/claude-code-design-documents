@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "design_doc": ".design/token-estimation-vcr-diagnostics.md",
+  "doc_hash": "sha256:dd1498d697df22c4bb4b8d4b2b311eea987c547fcba8b2ebc9a70460b3e83676",
+  "stage": "designed",
+  "plans": [],
+  "runs": []
+}

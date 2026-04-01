@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "design_doc": ".design/auxiliary-services.md",
+  "doc_hash": "sha256:9ac23cf6fab8a6cd2ebf306ab9769463a0d09a397e239d9205df00663f6b60aa",
+  "stage": "designed",
+  "plans": [],
+  "runs": []
+}
