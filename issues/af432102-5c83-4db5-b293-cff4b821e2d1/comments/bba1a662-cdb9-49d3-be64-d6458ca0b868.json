@@ -1,0 +1,10 @@
+{
+  "uuid": "bba1a662-cdb9-49d3-be64-d6458ca0b868",
+  "issue_uuid": "af432102-5c83-4db5-b293-cff4b821e2d1",
+  "author": "BBGH",
+  "content": "Applied QA fixes to docs #2-4: core-types-traits (Entry union 14→20 variants, Tool 47 members enumerated, CommandBase 18 fields, PluginError 25 variants), auth-oauth (split auth chain to 2 parallel chains, OAUTH_BETA_HEADER NOT on token exchange, backoff is jittered constant not exponential, dual authorize URLs), state-management (category counts corrected, 2 missing fields added, Store Object.is short-circuit + onChange ordering + Set dedup, added 6th side effect)",
+  "created_at": "2026-04-01T16:06:00.189811427Z",
+  "kind": "handoff",
+  "signed_by": "SHA256:J00HHD1JI1ThgB/YYBvvM6HwNUrSQvO70CrPh32mQgA",
+  "signature": "U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAg8Y9iUHsdhGBjH7ilHVW7wJi85sydInzHweNVfHLAiaQAAAARY3Jvc3NsaW5rLWNvbW1lbnQAAAAAAAAABnNoYTUxMgAAAFMAAAALc3NoLWVkMjU1MTkAAABA3cqRsvUUaZPtZWfdn4BCnz+YmVmbJpp/RqprrLZixhePoIdBQh1kFoqFkkeseVbO2yUzby0LXsolc1Abc2AIDw=="
+}
