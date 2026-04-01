@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "design_doc": ".design/networking-proxy.md",
+  "doc_hash": "sha256:2d6ad746445df9825d2c0938682a1ad351a06a1ebf8a02520612e348796e6b02",
+  "stage": "designed",
+  "plans": [],
+  "runs": []
+}

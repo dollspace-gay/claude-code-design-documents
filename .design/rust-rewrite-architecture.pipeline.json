@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "design_doc": ".design/rust-rewrite-architecture.md",
+  "doc_hash": "sha256:aeb371d5afeb42bda2e219e88b457fd6ed2dde800d9957e4626f1cfa72f6274b",
+  "stage": "designed",
+  "plans": [],
+  "runs": []
+}

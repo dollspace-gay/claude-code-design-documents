@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "design_doc": ".design/task-agent-orchestration.md",
+  "doc_hash": "sha256:ca62e5e9e70e46d2af8e6b4d62fae59044f8bf4d65d868568449e5d58e955baa",
+  "stage": "designed",
+  "plans": [],
+  "runs": []
+}

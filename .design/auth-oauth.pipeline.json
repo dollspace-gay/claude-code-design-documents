@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "design_doc": ".design/auth-oauth.md",
+  "doc_hash": "sha256:0b7b386e4a88085a6b864415f974f305d60bd6616cb964fcd2b5ef9a998de7bc",
+  "stage": "designed",
+  "plans": [],
+  "runs": []
+}

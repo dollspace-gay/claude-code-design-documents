@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "design_doc": ".design/native-modules-keybindings-vim.md",
+  "doc_hash": "sha256:ca354c969be07359521e7b83352d70397a40d1d06a1fafd05827d41b635a94e3",
+  "stage": "designed",
+  "plans": [],
+  "runs": []
+}

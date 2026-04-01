@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "design_doc": ".design/cli-commands.md",
+  "doc_hash": "sha256:487b89067cace3aa6c8fcf9cc3392c641a78a32a8574f5071a25660f4ceb79ba",
+  "stage": "designed",
+  "plans": [],
+  "runs": []
+}

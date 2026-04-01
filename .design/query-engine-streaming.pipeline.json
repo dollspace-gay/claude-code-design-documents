@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "design_doc": ".design/query-engine-streaming.md",
+  "doc_hash": "sha256:70c9ba9807f7573b3743db059d64669b69606ccaa7c3f779f55776ee3916ecfd",
+  "stage": "designed",
+  "plans": [],
+  "runs": []
+}

@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "design_doc": ".design/memory-system.md",
+  "doc_hash": "sha256:ec8a0aedd54923117dad727bcc20adc890ade6ccbc80398d7ee78d34aa972bbe",
+  "stage": "designed",
+  "plans": [],
+  "runs": []
+}

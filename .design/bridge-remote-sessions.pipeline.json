@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "design_doc": ".design/bridge-remote-sessions.md",
+  "doc_hash": "sha256:915a8c85e6324c8d0409a58b55803addb43ae265f19c995d200f12349b93a543",
+  "stage": "designed",
+  "plans": [],
+  "runs": []
+}
